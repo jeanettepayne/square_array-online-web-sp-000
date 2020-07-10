@@ -1,7 +1,7 @@
 
 def square_array(numbers)
  numbers.each do |number| 
-   puts "#{number} ** #{number}"
+   "#{number} * #{number}"
   end
  end
 
